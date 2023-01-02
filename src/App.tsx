@@ -11,7 +11,7 @@ const App = () =>  {
     useEffect(() => {
         restart()
     },[])
-
+//change
     function restart() {
         const newBoard = new Board();
         newBoard.initCells()
