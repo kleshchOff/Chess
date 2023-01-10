@@ -39,3 +39,39 @@
 .white {
     background-color: #eed4ac;
 }
+
+.queen {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+}
+
+.king {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+}
+
+.bishop {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+}
+
+.rook {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+}
+
+.knight {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+}
+
+.pawn {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+}
